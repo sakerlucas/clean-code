@@ -1,21 +1,21 @@
 ﻿<Properties StartupConfiguration="{CC9F5171-8182-4EFC-BCC8-C9A6988BEE3C}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.jeuDuSerpent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="jeuDuSerpent/ProgramV2.cs">
     <Files>
       <File FileName="jeuDuSerpent/Program.cs" Line="1" Column="1" />
-      <File FileName="jeuDuSerpent/Program (copier).cs" Line="60" Column="1" />
       <File FileName="jeuDuSerpent/Joueur.cs" Line="17" Column="23" />
+      <File FileName="jeuDuSerpent/ProgramV2.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jeuDuSerpent" expanded="True">
             <Node name="jeuDuSerpent" expanded="True">
-              <Node name="Dependencies" selected="True" />
+              <Node name="ProgramV2.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,6 +25,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.jeuDuSerpent PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
