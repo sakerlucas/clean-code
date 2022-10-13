@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{9F61162E-AB0C-46DD-A7C1-B5D0E1D38083}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.calculatriceTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="calculatriceTest/CalculatriceTest.cs">
     <Files>
-      <File FileName="calculatriceTest/CalculatriceTest.cs" Line="1" Column="1" />
+      <File FileName="calculatriceTest/CalculatriceTest.cs" Line="8" Column="17" />
+      <File FileName="Calculatrice/Calculatrice.cs" Line="1" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="calculatriceTest" expanded="True">
+            <Node name="Calculatrice" expanded="True" />
             <Node name="calculatriceTest" expanded="True" />
           </Node>
         </State>
@@ -22,16 +20,14 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="calculatriceTest" expanded="True">
-            <Node name="calculatriceTest" expanded="True">
-              <Node name="calculatriceTest" expanded="True">
-                <Node name="CalculatriceTest" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="calculatriceTest" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.calculatriceTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

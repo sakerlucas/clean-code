@@ -1,4 +1,6 @@
-﻿namespace calculatriceTest;
+﻿using Calculatrice;
+
+namespace calculatriceTest;
 
 [TestClass]
 public class CalculatriceTest
@@ -52,6 +54,7 @@ public class CalculatriceTest
     {
         var calculatrice = new Calculatrice();
         calculatrice.Div(a, b);
+        //Assert.ThrowsException < DivideByZeroException>(() => a / b);
     }
 
 }

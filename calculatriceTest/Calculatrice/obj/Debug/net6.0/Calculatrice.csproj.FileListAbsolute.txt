@@ -1,0 +1,12 @@
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/bin/Debug/net6.0/Calculatrice.deps.json
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/bin/Debug/net6.0/Calculatrice.dll
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/bin/Debug/net6.0/Calculatrice.pdb
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.csproj.AssemblyReference.cache
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.AssemblyInfoInputs.cache
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.AssemblyInfo.cs
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.csproj.CoreCompileInputs.cache
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.dll
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/refint/Calculatrice.dll
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/Calculatrice.pdb
+/Users/lucassaker/Desktop/M2I-1/Clean Code/clean-code/calculatriceTest/Calculatrice/obj/Debug/net6.0/ref/Calculatrice.dll
