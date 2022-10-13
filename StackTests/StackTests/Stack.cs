@@ -13,12 +13,16 @@
                 return false;
         }
 
-        internal void Pop()
+        internal int Pop()
         {
             if (valeurs.Count == 0)
-                throw new UnderflowException();
+                throw new UnderflowException("Immpossible de Pop sur une liste vide");
             else
-                valeurs.RemoveAt(valeurs.Count - 1);
+            {
+                var last = valeurs.Last();
+                valeurs.Remove(last);
+                return last;
+            }
         }
 
         internal void Push(int v)
@@ -28,6 +32,10 @@
 
         internal class UnderflowException : Exception
         {
+            public UnderflowException(string message) : base(message)
+            {
+
+            }
         }
     }
 }

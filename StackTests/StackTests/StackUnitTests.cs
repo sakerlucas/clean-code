@@ -62,7 +62,6 @@ public class StackUnitTests
     public void AfterPushingX_WillPopX(int number)
     {
         _stack.Push(number);
-        _stack.Pop();
-        Assert.AreEqual(0, _stack.valeurs.Count);
+        Assert.AreEqual(_stack.Pop(), number);
     }
 }
