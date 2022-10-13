@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{9EB0AE54-0262-41A4-A744-8BFF16BDFEAA}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorUnitTests/CalculatorUnitTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorUnitTests/Calculator.cs">
     <Files>
-      <File FileName="CalculatorUnitTests/UnitTest1.cs" Line="16" Column="42" />
+      <File FileName="CalculatorUnitTests/CalculatorUnitTests.cs" Line="116" Column="14" />
+      <File FileName="CalculatorUnitTests/Calculator.cs" Line="46" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalculatorUnitTests" expanded="True">
-            <Node name="CalculatorUnitTests" expanded="True" />
+            <Node name="CalculatorUnitTests" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,7 +21,13 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="CalculatorUnitTests" expanded="True" selected="True" />
+          <Node name="CalculatorUnitTests" expanded="True">
+            <Node name="CalculatorUnitTests" expanded="True">
+              <Node name="CalculatorUnitTests" expanded="True">
+                <Node name="CalculatorUnitTests+TestCalculator" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -27,5 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CalculatorUnitTests PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -9,24 +9,24 @@ namespace CalculatorUnitTests
         [TestFixture]
         public class TestCalculator
         {
-            [Test]
-            public void TestStringToArray()
-            {
-                string numbers = "0,1,2,3,4,555";
-                var arrayNumbers = numbers.Split(',');
+            //[Test]
+            //public void TestStringToArray()
+            //{
+            //    string numbers = "0,1,2,3,4,555";
+            //    var arrayNumbers = numbers.Split(',');
 
-                // LinQ
-                var sum = arrayNumbers.Sum(x => Convert.ToInt32(x));
+            //    // LinQ
+            //    var sum = arrayNumbers.Sum(x => Convert.ToInt32(x));
 
-                // Foreach classique
-                var sommeWithForeach = 0;
-                foreach (var cell in arrayNumbers)
-                {
-                    sommeWithForeach += Convert.ToInt32(cell);
-                }
-                Assert.AreEqual(sommeWithForeach, 565);
-                Assert.AreEqual(sum, 565);
-            }
+            //    // Foreach classique
+            //    var sommeWithForeach = 0;
+            //    foreach (var cell in arrayNumbers)
+            //    {
+            //        sommeWithForeach += Convert.ToInt32(cell);
+            //    }
+            //    Assert.AreEqual(sommeWithForeach, 565);
+            //    Assert.AreEqual(sum, 565);
+            //}
 
 
             [TestCase("")]
@@ -116,5 +116,5 @@ namespace CalculatorUnitTests
             }
 
         }
-    }
+        }
 }
