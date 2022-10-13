@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{2F71F177-D551-424E-8C17-EA66C4368C41}|Default">
+  <MonoDevelop.Ide.ItemProperties.StackTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackTests/Stack.cs">
+    <Files>
+      <File FileName="StackTests/UnitTest1.cs" Line="21" Column="6" />
+      <File FileName="StackTests/Stack.cs" Line="10" Column="64" />
+      <File FileName="StackTests/EmptyStackException.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StackTests" expanded="True">
+            <Node name="StackTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StackTests" expanded="True">
+            <Node name="StackTests" expanded="True">
+              <Node name="StackTests" expanded="True">
+                <Node name="StackUnitTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
